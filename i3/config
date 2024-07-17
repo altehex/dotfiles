@@ -9,7 +9,8 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
-exec_always polybar
+exec_always polybar top &
+exec_always polybar bottom &
 exec_always picom -b &
 
 exec setxkbmap -layout us,ru -option grp:toggle
