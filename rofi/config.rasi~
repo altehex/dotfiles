@@ -1,0 +1,7 @@
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+configuration {
+ modi: "window,drun,ssh,emoji:rofimoji,combi";
+ combi-modi: "window,drun,ssh,emoji:rofimoji";
+}
+@theme "/usr/share/rofi/themes/Monokai.rasi"

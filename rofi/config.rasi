@@ -1,0 +1,7 @@
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+configuration {
+ modi: "window,drun,ssh,combi";
+ combi-modi: "window,drun,ssh";
+}
+@theme "/usr/share/rofi/themes/Monokai.rasi"
