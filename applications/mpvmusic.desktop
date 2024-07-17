@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/usr/bin/mpvmusic
+Type=Application
+Categories=Media
+Name=mpv: Play shuffled Youtube playlists

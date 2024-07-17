@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/usr/bin/btoplauncher
+Type=Application
+Categories=System
+Name=Btop
