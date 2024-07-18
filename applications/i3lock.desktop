@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/usr/bin/i3lock-custom
+Type=Application
+Categories=System
+Name=i3lock
