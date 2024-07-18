@@ -1,0 +1,5 @@
+ACTION=="add" \
+, SUBSYSTEM=="usb" \
+, ATTRS{idProduct}=="037b" \
+, ATTRS{idVendor}=="056a" \
+, RUN+="/usr/bin/xsetwacom set 'Wacom One by Wacom M Pen stylus' PressureCurve 0 0 100 100"
